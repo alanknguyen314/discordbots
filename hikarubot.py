@@ -1,3 +1,11 @@
+# File name for Hikaru Bot
+# Active in Boston University Chess Club Discord Server
+
+# Purpose:
+# - Automatically deletes messages with "bad words" in them. Also send a text to the person 
+# sending the bad word to remind them of the rules.
+# - Automatically send encouraging quotes to the #discussion thread.
+
 import discord
 import os
 import requests
